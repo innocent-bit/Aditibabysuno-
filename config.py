@@ -84,7 +84,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://ibb.co/pvj9wFfY"
+    "START_IMG_URL", "https://ibb.co/WWkKx89c"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://ibb.co/mVnnmP4T"
