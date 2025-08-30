@@ -80,7 +80,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(text="📡 Update", url="https://t.me/MusiclineTechTeam"),
-            InlineKeyboardButton(text="💻Support", url="https://t.me/MusiclineTechTeam"),
+            InlineKeyboardButton(text="💻 Support", url="https://t.me/MusiclineTechTeam"),
         ],
            [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
